@@ -7,16 +7,23 @@ MANAGES:
 
 
 Categories
+
 Equipment
+
 Maintenance Records
+
 FEATURES:
 
 
 
 *Full CRUD operations
+
 *Relationships between models
+
 *Validations (status, serial number, etc.)
+
 *Error handling (404, 422, 409)
+
 SAMPLE ENDPOINTS:
 
 
