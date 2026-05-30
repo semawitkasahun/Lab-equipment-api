@@ -29,18 +29,33 @@ SAMPLE ENDPOINTS:
 
 
 *GET /categories
+
 *POST /categories
+
 *GET /equipment
+
 *POST /equipment
+
 *GET /maintenance_records
+
 *POST /maintenance_records
+
 TOOLS USED:
+
 *Ruby on Rails (API mode)
+
 *Ruby
+
 *SQLite
+
 *ActiveRecord
+
 *Postman / cURL
+
 *Git & GitHub
+
 *VS Code
+
 ABOUT:
+
 *This API is used to manage lab equipment, categories, and maintenance records with proper relationships and validations.
