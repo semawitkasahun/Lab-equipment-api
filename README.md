@@ -3,7 +3,7 @@ Lab Equipment API
 This is a Ruby on Rails API for managing a lab equipment system.
 
 MANAGES:
-Categories
+* Categories
 Equipment
 Maintenance Records
 FEATURES:
